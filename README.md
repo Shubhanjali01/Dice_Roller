@@ -34,4 +34,4 @@ Clean and responsive UI with custom styling.
 
 
 #### User Interface Dice Roller
-![Dice Roller](C:\Users\shubhi\Desktop\diceRoller\SS_of_UI.png)
+![Dice Roller UI](SS_of_UI.png)
