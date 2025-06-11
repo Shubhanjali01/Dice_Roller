@@ -32,9 +32,6 @@ Clean and responsive UI with custom styling.
     └── 6.png
 3. Open index.html in any web browser.
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:Shubhanjali01/Dice_Roller.git
-git push -u origin main
+
+#### User Interface Dice Roller
+![Dice Roller](C:\Users\shubhi\Desktop\diceRoller\SS_of_UI.png)
