@@ -1,10 +1,3 @@
-#### Project Structure
-.
-├── index.html      # Main HTML file
-├── style.css       # Styles for the Dice Roller UI
-├── app.js          # JavaScript logic for rolling dice
-└── myImages/       # Folder containing dice face images (1.png to 6.png)
-
 ####  Features
 
 Input the number of dice to roll.
